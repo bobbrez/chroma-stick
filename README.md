@@ -7,6 +7,10 @@
 3. Pull down this project and open it
 4. Build for the ESP32 Thing in Arduino IDE
 
+### Dev Tips
+
+* Make sure to checkout the Arduino Serial Monitor (in the IDE hit Ctrl + Shift + M) to see logs
+
 ## Bluetooth Library / Setup
 
 This project uses Bluetooth LTE for simple commands via an app. You can either build a custom app or use a off-the-shelf Bluetooth LTE app (i.e. [nRf Connect](https://apps.apple.com/us/app/nrf-connect/id1054362403))
