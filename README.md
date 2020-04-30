@@ -13,7 +13,7 @@ This project uses Bluetooth LTE for simple commands via an app. You can either b
 
 ## FastLED Library
 
-This project uses [FastLED](). If you're not familuar with it, it's pretty simple once you get the hang of it.
+This project uses [FastLED](https://github.com/FastLED/FastLED/wiki/Basic-usage). If you're not familuar with it, it's pretty simple once you get the hang of it.
 
 *Some FastLED Resources*
 * http://jwhendy.blogspot.com/2015/10/fastled-series-getting-started.html
